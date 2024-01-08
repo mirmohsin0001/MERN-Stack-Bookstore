@@ -1,5 +1,15 @@
 # Book Store MERN stack project
 
+## Steps to host project locally
+- [x] Clone the repository
+- [x] CD to the backend folder and run "npm i" in the terminal
+- [x] CD to the frontend folder and run "npm i" in the terminal
+- [x] Connect database by editing the config.js file by entering your database <username> and <password> in the mongoDBURL
+- [x] CD to the backend folder and run "npm run dev" to start backend server on localhost:5000
+- [x] Open a new terminal, cd to the frontend folder and run "npm run dev" to start frontend on localhost:5555 
+
+
+
 ## Lessons
 
 - [x] Lesson 01: Create Node.js project from scratch
